@@ -26,61 +26,61 @@ Draws done using Flash.
 
 - Multiple lines with radial multi-color gradient and blur.
 
-[![Light](https://github.com/jonasgozdecki/flash_animations/blob/master/draws/light.png)]()
+[![Light](https://github.com/jonasgozdecki/draws/blob/master/draws/light.png)]()
 
 ## Wines
 
-[![Wines](https://github.com/jonasgozdecki/flash_animations/blob/master/draws/aurora1.png)]()
-[![Wines](https://github.com/jonasgozdecki/flash_animations/blob/master/draws/aurora2.png)]()
+[![Wines](https://github.com/jonasgozdecki/draws/blob/master/draws/aurora1.png)]()
+[![Wines](https://github.com/jonasgozdecki/draws/blob/master/draws/aurora2.png)]()
 
 ## Bikers
 
-[![Bikers](https://github.com/jonasgozdecki/flash_animations/blob/master/draws/bikers.png)]()
+[![Bikers](https://github.com/jonasgozdecki/draws/blob/master/draws/bikers.png)]()
 
 ## Brand
 
-[![Brand](https://github.com/jonasgozdecki/flash_animations/blob/master/draws/brand_gestor.png)]()
+[![Brand](https://github.com/jonasgozdecki/draws/blob/master/draws/brand_gestor.png)]()
 
-[![Brand](https://github.com/jonasgozdecki/flash_animations/blob/master/draws/servitrine.png)]()
+[![Brand](https://github.com/jonasgozdecki/draws/blob/master/draws/servitrine.png)]()
 
-[![Brand](https://github.com/jonasgozdecki/flash_animations/blob/master/draws/mobdesk.png)]()
+[![Brand](https://github.com/jonasgozdecki/draws/blob/master/draws/mobdesk.png)]()
 
-[![Brand](https://github.com/jonasgozdecki/flash_animations/blob/master/draws/s1.png)]()
+[![Brand](https://github.com/jonasgozdecki/draws/blob/master/draws/s1.png)]()
 
 ## Websites
 
-[![Websites](https://github.com/jonasgozdecki/flash_animations/blob/master/draws/ex.png)]()
-[![Websites](https://github.com/jonasgozdecki/flash_animations/blob/master/draws/index.png)]()
-[![Websites](https://github.com/jonasgozdecki/flash_animations/blob/master/draws/index2_Lw.png)]()
-[![Websites](https://github.com/jonasgozdecki/flash_animations/blob/master/draws/MAFRO.png)]()
-[![Websites](https://github.com/jonasgozdecki/flash_animations/blob/master/draws/textures.png)]()
-[![Websites](https://github.com/jonasgozdecki/flash_animations/blob/master/draws/component.png)]()
+[![Websites](https://github.com/jonasgozdecki/draws/blob/master/draws/ex.png)]()
+[![Websites](https://github.com/jonasgozdecki/draws/blob/master/draws/index.png)]()
+[![Websites](https://github.com/jonasgozdecki/draws/blob/master/draws/index2_Lw.png)]()
+[![Websites](https://github.com/jonasgozdecki/draws/blob/master/draws/MAFRO.png)]()
+[![Websites](https://github.com/jonasgozdecki/draws/blob/master/draws/textures.png)]()
+[![Websites](https://github.com/jonasgozdecki/draws/blob/master/draws/component.png)]()
 
 
 ## Emails
 
-[![Emails](https://github.com/jonasgozdecki/flash_animations/blob/master/draws/mail_hcl.png)]()
+[![Emails](https://github.com/jonasgozdecki/draws/blob/master/draws/mail_hcl.png)]()
 
-[![Emails](https://github.com/jonasgozdecki/flash_animations/blob/master/draws/Integrator_malaEN.png)]()
+[![Emails](https://github.com/jonasgozdecki/draws/blob/master/draws/Integrator_malaEN.png)]()
 
 
 ## Tork
 
-[![Tork](https://github.com/jonasgozdecki/flash_animations/blob/master/draws/card_tork.png)]()
+[![Tork](https://github.com/jonasgozdecki/draws/blob/master/draws/card_tork.png)]()
 
-[![Tork](https://github.com/jonasgozdecki/flash_animations/blob/master/draws/tork_work.png)]()
+[![Tork](https://github.com/jonasgozdecki/draws/blob/master/draws/tork_work.png)]()
 
-[![Tork](https://github.com/jonasgozdecki/flash_animations/blob/master/draws/p3.png)]()
+[![Tork](https://github.com/jonasgozdecki/draws/blob/master/draws/p3.png)]()
 
-[![Tork](https://github.com/jonasgozdecki/flash_animations/blob/master/draws/p2.png)]()
+[![Tork](https://github.com/jonasgozdecki/draws/blob/master/draws/p2.png)]()
 
-[![Tork](https://github.com/jonasgozdecki/flash_animations/blob/master/draws/KERS_liquid.png)]()
+[![Tork](https://github.com/jonasgozdecki/draws/blob/master/draws/KERS_liquid.png)]()
 
-[![Tork](https://github.com/jonasgozdecki/flash_animations/blob/master/draws/TORK_V4.png)]()
+[![Tork](https://github.com/jonasgozdecki/draws/blob/master/draws/TORK_V4.png)]()
 
-[![Tork](https://github.com/jonasgozdecki/flash_animations/blob/master/draws/tork_valves_v2.png)]()
+[![Tork](https://github.com/jonasgozdecki/draws/blob/master/draws/tork_valves_v2.png)]()
 
-[![Tork](https://github.com/jonasgozdecki/flash_animations/blob/master/draws/tork_valves_v2a.png)]()
+[![Tork](https://github.com/jonasgozdecki/draws/blob/master/draws/tork_valves_v2a.png)]()
 
 
 
@@ -89,15 +89,15 @@ Draws done using Flash.
 
 ## Odonto
 
-[![Light](https://github.com/jonasgozdecki/flash_animations/blob/master/draws/odonto/odonto1.png)]()
+[![Light](https://github.com/jonasgozdecki/draws/blob/master/draws/odonto/odonto1.png)]()
 
-[![Light](https://github.com/jonasgozdecki/flash_animations/blob/master/draws/odonto/odonto2.png)]()
+[![Light](https://github.com/jonasgozdecki/draws/blob/master/draws/odonto/odonto2.png)]()
 
-[![Light](https://github.com/jonasgozdecki/flash_animations/blob/master/draws/odonto/odonto3.png)]()
+[![Light](https://github.com/jonasgozdecki/draws/blob/master/draws/odonto/odonto3.png)]()
 
-[![Light](https://github.com/jonasgozdecki/flash_animations/blob/master/draws/odonto/odonto4.png)]()
+[![Light](https://github.com/jonasgozdecki/draws/blob/master/draws/odonto/odonto4.png)]()
 
-[![Light](https://github.com/jonasgozdecki/flash_animations/blob/master/draws/odonto/odonto5.png)]()
+[![Light](https://github.com/jonasgozdecki/draws/blob/master/draws/odonto/odonto5.png)]()
 
-[![Light](https://github.com/jonasgozdecki/flash_animations/blob/master/draws/odonto/odonto6.png)]()
+[![Light](https://github.com/jonasgozdecki/draws/blob/master/draws/odonto/odonto6.png)]()
 
