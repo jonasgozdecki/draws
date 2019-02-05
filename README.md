@@ -27,7 +27,7 @@ Draws done using Flash.
 
 - Multiple lines with radial multi-color gradient and blur.
 
-[![Light](https://github.com/jonasgozdecki/draws/blob/master/iris.png)]()
+[![Light](https://github.com/jonasgozdecki/draws/blob/master/light.png)]()
 
 ## Iris
 
