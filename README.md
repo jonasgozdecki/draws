@@ -80,7 +80,7 @@ Draws done using Flash.
 
 [![Tork](https://github.com/jonasgozdecki/draws/blob/master/p3.png)]()
 
-[![Tork](https://github.com/jonasgozdecki/draws/blob/master/p2.png)]()
+[![Tork](https://github.com/jonasgozdecki/draws/blob/master/p2.png)]()  
 
 [![Tork](https://github.com/jonasgozdecki/draws/blob/master/KERS_liquid.png)]()
 
