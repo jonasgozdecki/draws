@@ -11,6 +11,7 @@ Draws done using Flash.
 ## Contents
 
 - [Light](#light)
+- [Iris](#iris)
 - [Wines](#wines)
 - [Bikers](#bikers)
 - [Brand](#brand)
@@ -26,7 +27,13 @@ Draws done using Flash.
 
 - Multiple lines with radial multi-color gradient and blur.
 
-[![Light](https://github.com/jonasgozdecki/draws/blob/master/light.png)]()
+[![Light](https://github.com/jonasgozdecki/draws/blob/master/iris.png)]()
+
+## Iris
+
+- Here's how to do the effect 
+
+[![Light](https://github.com/jonasgozdecki/draws/blob/master/Light_iris.png)]()
 
 ## Wines
 
@@ -45,15 +52,15 @@ Draws done using Flash.
 
 [![Brand](https://github.com/jonasgozdecki/draws/blob/master/mobdesk.png)]()
 
-[![Brand](https://github.com/jonasgozdecki/draws/blob/master/s1.png)]()
+[![Brand](https://github.com/jonasgozdecki/draws/blob/master/s1.jpg)]()
 
 
 ## Websites
 
-[![Websites](https://github.com/jonasgozdecki/draws/blob/master/ex.png)]()
+[![Websites](https://github.com/jonasgozdecki/draws/blob/master/ex.jpg)]()
 [![Websites](https://github.com/jonasgozdecki/draws/blob/master/index.png)]()
-[![Websites](https://github.com/jonasgozdecki/draws/blob/master/index2_Lw.png)]()
-[![Websites](https://github.com/jonasgozdecki/draws/blob/master/MAFRO.png)]()
+[![Websites](https://github.com/jonasgozdecki/draws/blob/master/index2_Lw.jpg)]()
+[![Websites](https://github.com/jonasgozdecki/draws/blob/master/maf.jpg)]()
 [![Websites](https://github.com/jonasgozdecki/draws/blob/master/textures.png)]()
 [![Websites](https://github.com/jonasgozdecki/draws/blob/master/component.png)]()
 
@@ -62,7 +69,7 @@ Draws done using Flash.
 
 [![Emails](https://github.com/jonasgozdecki/draws/blob/master/mail_hcl.png)]()
 
-[![Emails](https://github.com/jonasgozdecki/draws/blob/master/Integrator_malaEN.png)]()
+[![Emails](https://github.com/jonasgozdecki/draws/blob/master/Integrator_malaEN.jpg)]()
 
 
 ## Tork
